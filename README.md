@@ -1,2 +1,3 @@
 # StockAnalysis
-Using pandas, matplotlib, numpy to analyze stock and using Streamlit framework for developing the web application 
+Grabbing stock data from yahoofinance to analyze.
+Using pandas, yfinance, yahoo_fin, and Streamlit framework for developing the web application 
